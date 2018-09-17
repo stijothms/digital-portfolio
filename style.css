@@ -1,0 +1,29 @@
+.article-title {
+    color: #4A708B !important;
+    font-size: 16px;
+    font-weight: bold;
+  }
+  .home-wrapper .page-header .navbar {
+    color: #ffffff;
+    background-color: #325C74;
+  }
+  .home-wrapper .page-header .navbar a,
+  .home-wrapper .page-header .navbar a:hover {
+    color: #ffffff;
+  }
+  .home-wrapper .page-header .navbar .caption {
+    padding-left: 3px;
+    padding-top: 9px;
+    color: #FFB00F;
+  }
+  .home-wrapper .page-body {
+    padding-top: 30px;
+  }
+  .home-wrapper .page-body .card {
+    border: 0;
+    margin-bottom: 15px;
+  }
+  .home-wrapper .page-body .card .card-body {
+    padding: 0;
+  }
+  
